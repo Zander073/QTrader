@@ -27,3 +27,22 @@ A deep reinforcement learning agent that uses deep deterministic policy gradient
   4. Clone the repository: ```git clone https://github.com/Zander073/QTrader.git```
   5. Once the repository has successfully been cloned, launch the project by entering the following in the command prompt: ```jupyter notebook```
   6. You can now run the code! To end your session, go to 'file' -> 'save' or press 'command'+'s'. To end the session from the command prompt enter: 'control'+'c'
+
+# Aknowledgements:
+This project would not have been possible if it wasn't for the open source library FinRL. Check them out for other financial projects involving deep reinforcement learning: https://finrl.readthedocs.io/en/latest/
+
+Blackburn. "Reinforcement Learning : Markov-Decision Process (Part 1)." Towards Data Science, 27 Jul. 2019, towardsdatascience.com/introduction-to-reinforcement-learning-markov-decision-process-44c533ebf8da.
+
+Choudhary, Ankit. "A Hands-On Introduction to Deep Q-Learning using OpenAI Gym in Python." Analytics Vidhya, 18 Apr. 2019, www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/.
+
+"Deep Deterministic Policy Gradient." OpenAI, spinningup.openai.com/en/latest/algorithms/ddpg.html.
+
+Dittrich, MA., Fohlmeister, S. A deep q-learning-based optimization of the inventory control in a linear process chain. Prod. Eng. Res. Devel. 15, 35–43 (2021). https://doi.org/10.1007/s11740-020-01000-8
+
+FinRL Library for learning and backtesting environment: https://github.com/AI4Finance-Foundation/FinRL
+
+Karunakaran, Dhanoop. "Deep Q Network(DQN)- Applying Neural Network as a functional approximation in Q-learning." Towards Data Science, 18 Apr. 2019, medium.com/intro-to-artificial-intelligence/deep-q-network-dqn-applying-neural-network-as-a-functional-approximation-in-q-learning-6ffe3b0a9062.
+
+Liu, Xiao-Yang, et al. "Practical deep reinforcement learning approach for stock trading." arXiv preprint arXiv:1811.07522 (2018).
+
+Shyalika, Chathurangi. "A Beginners Guide to Q-Learning." Towards Data Science, 14 Nov. 2019, towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c.
