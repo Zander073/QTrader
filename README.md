@@ -26,4 +26,4 @@ A deep reinforcement learning agent that uses deep deterministic policy gradient
   3. Navigate to a section in your command prompt where you want the project to exist. 
   4. Clone the repository: ```git clone https://github.com/Zander073/QTrader.git```
   5. Once the repository has successfully been cloned, launch the project by entering the following in the command prompt: ```jupyter notebook```
-  6. You can now run the code! To end your session, go to 'file' -> 'save' or press 'command'+'s'
+  6. You can now run the code! To end your session, go to 'file' -> 'save' or press 'command'+'s'. To end the session from the command prompt enter: 'control'+'c'
